@@ -1,13 +1,13 @@
-/*package com.atguigu.gmall.user;
+package com.atguigu.gmall.user;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GmallUserApplicationTests {
+class GmallUserServiceApplicationTests {
 
     @Test
     void contextLoads() {
     }
 
-}*/
+}

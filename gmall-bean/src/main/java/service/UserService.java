@@ -1,7 +1,7 @@
-package com.atguigu.gmall.user.service;
+package service;
 
-import com.atguigu.gmall.user.bean.UmsMember;
-import com.atguigu.gmall.user.bean.UmsMemberReceiveAddress;
+import bean.UmsMember;
+import bean.UmsMemberReceiveAddress;
 
 import java.util.List;
 
